@@ -66,31 +66,40 @@
 
 
 
-**User Input:** 
+**User Input:**  
+
 *The user has to set the speed limit to the system through buttons.* 
 
-**Radar:** 
+**Radar:**  
+
 *Radar is used as a sensor in this system to detect the objects at considerable distances.*
 
-**Speed Sensor:** 
+**Speed Sensor:**  
+
 *It is used to sense the speed of the vehicle. It is located in the wheels of a vehicle.* 
 
 **Camera:**  
-          *A camera is mounted between the windshield and the rear-view mirror to capture and calculate the distance between the lane and the vehicle.* 
 
-**Micro-Controller:** 
+*A camera is mounted between the windshield and the rear-view mirror to capture and calculate the distance between the lane and the vehicle.* 
+
+**Micro-Controller:**  
+
 *It controls the various operations of the embedded system.*  
 
-**Actuator :** 
+**Actuator :**  
+
 *It uses the actuator powered by engine vacuum to open and close the throttle as well as the brake.* 
 
-**Electronic power steering:** 
+**Electronic power steering:**  
+
 *It is used to adjust the car to keep it in its lane* 
 
-**Instrument Cluster:** 
+**Instrument Cluster:**  
+
 *It displays that this mode is on or off and also it displays warning message to the cluster incase of emergency.* 
 
-**Speaker:** 
+**Speaker:**  
+
 *It is used for safety to alert the driver incase of emergency.*
 
 
