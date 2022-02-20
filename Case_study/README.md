@@ -1,5 +1,20 @@
-﻿
-## MP3 Player
+## Case Study 1: MP3 Player
+
+## Block Diagram
+
+
+![MP#3](https://user-images.githubusercontent.com/75168665/154838033-c88393af-bfd5-478c-a5f2-732b3b6e8e6b.jpeg)
+
+
+
+
+
+
+
+
+
+
+## Describtion:
 
 **User Input:** 
 *The user can give input to the embedded device by using the buttons. They can also use mic to give input if the feature is added in the system.* 
@@ -27,7 +42,20 @@
 
 
 
-## Adaptive cruise control
+## Case Study 2: Adaptive cruise control
+
+## Block Diagram
+
+
+![ACC](https://user-images.githubusercontent.com/75168665/154838094-6f649bc0-ebe4-480d-a232-59d8751cad15.jpeg)
+
+
+
+
+
+
+
+
 
 **User Input:** 
 *The user has to set the speed limit to the system through buttons.* 
@@ -73,7 +101,9 @@
  1. Radar and a camera is required to detect the obstacles in the way and the distance.
 
  2. Actuators powered by engine vacuum is required to control the throttle and the brake of the vehicle.
+
  3. Electronic steering is used to steer the vehicle.
+
  4. Instrument cluster and speakers required to alert the driver.
 
  
