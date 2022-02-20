@@ -66,7 +66,8 @@
 **Speed Sensor:** 
 *It is used to sense the speed of the vehicle. It is located in the wheels of a vehicle.* 
 
-**Camera:**  *A camera is mounted between the windshield and the rear-view mirror to capture and calculate the distance between the lane and the vehicle.* 
+**Camera:**  
+          *A camera is mounted between the windshield and the rear-view mirror to capture and calculate the distance between the lane and the vehicle.* 
 
 **Micro-Controller:** 
 *It controls the various operations of the embedded system.*  
