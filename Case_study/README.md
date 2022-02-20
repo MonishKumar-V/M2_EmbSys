@@ -36,11 +36,11 @@
 
 **USB interface:**     
 
-     *It is used to connect with external devices for files sharing.*
+*It is used to connect with external devices for files sharing.*
 
 **Bluetooth:** 
-       
-        *It is to connect with nearby bluetooth audio device.*                      
+
+*It is to connect with nearby bluetooth audio device.*                      
 
 
 
