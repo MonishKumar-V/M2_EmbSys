@@ -1,4 +1,7 @@
-﻿## Introduction :
+## Temperature Controlled Fan : 
+
+
+## Introduction :
 
 The main intention behind this temperature controlled fan is to automatically control the speed of the fan based on the room temperature variations. 
 
