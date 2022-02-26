@@ -7,9 +7,11 @@
 ## Description :
 
  -  **User Input** : 
-              The User can provide input to the micro controller using this, in this case the user provides temperature to the system.
+             
+      The User can provide input to the micro controller using this, in this case the user provides temperature to the system.
  - **Temperature Sensor** : 
-              This sensor is used to measure the room temperature and it is fed to the micro controller via ADC.
+             
+     This sensor is used to measure the room temperature and it is fed to the micro controller via ADC.
  - **ADC** : This components, as the name indicates, is used to convert analog to digital signal and is fed to micro-controller.
  - **Micro controller** : It controls the whole operation the embedded system.
  - **Speed Sensor** : It is used to measure the speed of the fan and fed to the display via micro controller.
