@@ -1,6 +1,7 @@
 
 ## Block diagram :
 
+![Blank diagram (1)](https://user-images.githubusercontent.com/75168665/155832123-a91204da-ac20-45d8-9dde-ae08bd7541dd.jpeg)
 
 
 
