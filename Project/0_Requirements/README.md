@@ -1,5 +1,7 @@
 ﻿## Requirements :
-
+ 
+ ## High Level Requirements :
+ 
 |ID|High Level Requirements|Status
 |--|--|--|
 |01  |It shall have the ability to sense temperature.  |To be done.
@@ -7,6 +9,7 @@
 |03|It shall have the ability to measure the speed of the fan.|To be done.
 |04|It shall have the ability to display.|To be done.
 
+## Low Level Requirements :
 
 |ID|Low Level requirements |Status
 |--|--|--|
